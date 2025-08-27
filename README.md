@@ -32,8 +32,8 @@ node index.js
 ```
 
 ## Images
-![Product Scan](IMG_6162.jpg)
-![Product Scan Results](IMG_6163.PNG)
-![Product Scan Results2](IMG_6165.PNG)
-![Store Map Result](IMG_6166.PNG)
+<img src="IMG_6162.jpg" width = "400"/>
+<img src="IMG_6163.PNG" width = "400"/>
+<img src="IMG_6165.PNG" width = "400"/>
+<img src="IMG_6166.PNG" width = "400"/>
 
