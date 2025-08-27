@@ -12,3 +12,7 @@ A mobile app that allows users to scan grocery products barcodes (EAN-13/UPC) an
 1. OpenFoodFacts API
 2. Apple Maps
 3. Manual product dataset
+
+## Requirement
+BASE_URL: `http://${process.env.USER_IP}:4000`
+USER_IP: `your.local.ip.address`
