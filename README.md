@@ -16,3 +16,17 @@ A mobile app that allows users to scan grocery products barcodes (EAN-13/UPC) an
 ## Requirement
 BASE_URL: `http://${process.env.USER_IP}:4000` |
 USER_IP: `your.local.ip.address`
+
+## Setup and Run
+### Frontend
+```
+cd CheapProductsApp
+npm install
+npx expo start
+```
+### Backend
+```
+cd barcode-offers-api
+npm install
+node index.js
+```
